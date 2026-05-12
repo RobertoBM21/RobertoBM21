@@ -1,22 +1,23 @@
 ### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I’m **Roberto**, a Junior Full-Stack Software Engineer based in Spain 🇪🇸.
+I’m **Roberto**, a Software Engineer specializing in scalable backend architectures and cloud-native deployments.
 
-🎓 I'm currently finishing my **Master's degree in Software Engineering**.
+📍 Currently based in Spain 🇪🇸 | **Open to relocation to Asia (Hong Kong / Mainland) 🌏**
 
-🚀 **What I do:** I build web applications from the database up to the UI. My sweet spot is structuring solid, maintainable backends using Domain-Driven Design (DDD) and Hexagonal Architecture, while keeping things running smoothly in the cloud with AWS and Kubernetes.
+🎓 Wrapping up my **Master's degree in Software Engineering** (Expected June 2026).
+
+🚀 **What I do:** I build fault-tolerant web applications and distributed systems. My sweet spot is structuring solid, maintainable backends using **Domain-Driven Design (DDD)**, **Hexagonal Architecture**, and **CQRS**. I strongly believe in full-lifecycle ownership, ensuring high code quality through rigorous testing and keeping things running smoothly in the cloud with **AWS** and **Kubernetes**.
 
 #### 💻 Main Tech Stack & Tools
 
-- **Languages:** TypeScript, JavaScript, Python
-- **Frontend:** React, Next.js, Vue, Tailwind CSS
-- **Backend:** Node.js, NestJS
-- **Cloud & DevOps:** AWS, Docker, Kubernetes, GitHub Actions
+- **Languages:** TypeScript (NestJS), JavaScript, Python
+- **Cloud & DevOps:** AWS, CloudFormation, Docker, Kubernetes, GitHub Actions
 - **Databases:** PostgreSQL, MongoDB, Redis
+- **Frontend:** React, Next.js, Vue, Tailwind CSS
 
 #### 🌱 Currently Learning
 
-- Exploring **Go (Golang)** for high-performance services and deepening my knowledge in **Cloud infrastructure**.
+- Deepening my knowledge in **Go (Golang)** for high-performance microservices.
 
 #### 📫 Let's Connect!
 
@@ -30,5 +31,4 @@ I’m **Roberto**, a Junior Full-Stack Software Engineer based in Spain 🇪🇸
 ⚡ **Fun Facts:**
 
 - ☕ I run on Coffee and Matcha.
-
 - 🏋️‍♂️ **Hobbies:** Gym, trying out new Food Recipes, and Traveling.
