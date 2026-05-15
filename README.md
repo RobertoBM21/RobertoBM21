@@ -14,6 +14,7 @@ I’m **Roberto**, a Software Engineer specializing in scalable backend architec
 - **Cloud & DevOps:** AWS, CloudFormation, Docker, Kubernetes, GitHub Actions
 - **Databases:** PostgreSQL, MongoDB, Redis
 - **Frontend:** React, Next.js, Vue, Tailwind CSS
+- **Testing:** Jest, Vitest, Cypress, Playwright, Stryker, JMeter
 
 #### 🌱 Currently Learning
 
