@@ -4,9 +4,9 @@ I’m **Roberto**, a Software Engineer specializing in scalable backend architec
 
 📍 Currently based in Spain 🇪🇸 | **Open to relocation to Asia (Hong Kong / Mainland) 🌏**
 
-🎓 Wrapping up my **Master's degree in Software Engineering** (Expected June 2026).
+🎓 **Master's in Software Engineering** | Solid foundation in systems design and cloud infrastructure.
 
-🚀 **What I do:** I build fault-tolerant web applications and distributed systems. My sweet spot is structuring solid, maintainable backends using **Domain-Driven Design (DDD)**, **Hexagonal Architecture**, and **CQRS**. I strongly believe in full-lifecycle ownership, ensuring high code quality through rigorous testing and keeping things running smoothly in the cloud with **AWS** and **Kubernetes**.
+🚀 **What I do:** I build fault-tolerant distributed systems and microservices. My sweet spot is structuring maintainable backends using **Clean Architecture (DDD, CQRS)**. I thrive on complex backend challenges and take **full-lifecycle ownership**—acting as a bridge between business logic and technical execution, and provisioning robust environments from scratch on **AWS** and **Kubernetes**.
 
 #### 💻 Main Tech Stack & Tools
 
