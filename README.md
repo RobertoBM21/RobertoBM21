@@ -30,10 +30,11 @@ I’m **Roberto**, a Software Engineer specializing in scalable backend architec
 
 ### 📫 Let's Connect!
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/robertoburruezo)
-[<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:roberto.burruezom@gmail.com)
-
-<br />
+<p align="left">
+  <a href="https://www.linkedin.com/in/robertoburruezo" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:linkedin.svg?color=%23ffffff"><img alt="LinkedIn" width="24" height="24" src="https://api.iconify.design/simple-icons:linkedin.svg?color=%23000000" /></picture></a>
+  &nbsp;&nbsp;
+  <a href="mailto:roberto.burruezom@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:gmail.svg?color=%23ffffff"><img alt="Email" width="24" height="24" src="https://api.iconify.design/simple-icons:gmail.svg?color=%23000000" /></picture></a>
+</p>
 
 ---
 
