@@ -1,30 +1,31 @@
 ### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I’m **Roberto**, a Software Engineer specializing in scalable backend architectures and cloud-native deployments.
+I’m **Roberto**, a Software & Cloud Engineer specializing in scalable backend architectures and cloud-native deployments.
 
-📍 Currently based in Spain 🇪🇸 | **Open to relocation 🌏**
+📍 Currently based in Spain 🇪🇸 | **Open to relocation:** Europe, Australia, Tokyo (Japan), HK/China 🌏
 
 🎓 **Master's in Software Engineering** | Solid foundation in systems design and cloud infrastructure.
 
-🚀 **What I do:** I build fault-tolerant distributed systems and microservices. My sweet spot is structuring maintainable backends using **Clean Architecture (DDD, CQRS)**. I thrive on complex backend challenges and take **full-lifecycle ownership**, acting as a bridge between business logic and technical execution, and provisioning robust environments from scratch on **AWS** and **Kubernetes**.
+🚀 **What I do:** I architect and build resilient distributed systems and automate the cloud infrastructure behind them. From designing scalable, event-driven microservices to provisioning containerized platforms with AWS, Kubernetes, and Terraform, I focus on building reliable production systems with an end-to-end ownership mindset.
 
 #### 💻 Main Tech Stack & Tools
 
-- **Languages:** TypeScript (NestJS), JavaScript, Python
-- **Cloud & DevOps:** AWS, CloudFormation, Docker, Kubernetes, GitHub Actions
+- **Languages:** TypeScript (NestJS), Go, Python
+- **Cloud & DevOps:** AWS, Terraform, CloudFormation, Docker, Kubernetes, GitHub Actions
 - **Databases:** PostgreSQL, MongoDB, Redis
 - **Frontend:** React, Next.js, Vue, Tailwind CSS
-- **Testing:** Jest, Vitest, Cypress, Playwright, Stryker, JMeter
+- **Testing & Quality:** Jest, Vitest, Cypress, Playwright, Stryker, JMeter
 
 #### 🌱 Currently Learning
 
-- Deepening my knowledge in **Go (Golang)** for high-performance microservices.
+- Deepening concurrency patterns and performance tuning in **Go**.
+- Cloud-native observability and site reliability (SRE principles).
 
 ### 📜 Certifications
 
 <p align="left">
-  <a href="https://www.credly.com/badges/59b846aa-c2f8-4927-bbd7-356a4e6074cd/public_url" target="_blank" rel="noopener noreferrer"><img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="110" alt="AWS Certified Cloud Practitioner" /></a>
-  <a href="https://www.credly.com/badges/afa5dfc0-c715-4e8e-9a85-42b89cdc222e/public_url" target="_blank" rel="noopener noreferrer"><img src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="110" alt="AWS Certified Developer" /></a>
+  <a href="https://www.credly.com/badges/59b846aa-c2f8-4927-bbd7-356a4e6074cd/public_url" target="_blank" rel="noopener noreferrer"><img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="110" alt="AWS Certified Solutions Architect - Associate" /></a>
+  <a href="https://www.credly.com/badges/afa5dfc0-c715-4e8e-9a85-42b89cdc222e/public_url" target="_blank" rel="noopener noreferrer"><img src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="110" alt="AWS Certified Developer - Associate" /></a>
   &nbsp;&nbsp;
 </p>
 
