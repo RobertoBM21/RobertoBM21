@@ -23,9 +23,9 @@ I’m **Roberto**, a Software Engineer specializing in scalable backend architec
 ### 📜 Certifications
 
 <p align="left">
+  <a href="https://www.credly.com/badges/59b846aa-c2f8-4927-bbd7-356a4e6074cd/public_url" target="_blank" rel="noopener noreferrer"><img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="110" alt="AWS Certified Cloud Practitioner" /></a>
   <a href="https://www.credly.com/badges/afa5dfc0-c715-4e8e-9a85-42b89cdc222e/public_url" target="_blank" rel="noopener noreferrer"><img src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="110" alt="AWS Certified Developer" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/494569f1-85e5-4852-aa52-88ac70ec7f41/public_url" target="_blank" rel="noopener noreferrer"><img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="110" alt="AWS Certified Cloud Practitioner" /></a>
 </p>
 
 ### 📫 Let's Connect!
