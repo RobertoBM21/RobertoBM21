@@ -2,7 +2,7 @@
 
 I’m **Roberto**, a Software & Cloud Engineer specializing in scalable backend architectures and cloud-native deployments.
 
-📍 Currently based in Spain 🇪🇸 | **Open to relocation:** Europe, Australia, Tokyo (Japan), HK/China 🌏
+📍 Currently based in Spain 🇪🇸 | **Open to relocation** 🌏
 
 🎓 **Master's in Software Engineering** | Solid foundation in systems design and cloud infrastructure.
 
